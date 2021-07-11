@@ -1,3 +1,10 @@
+
+# Pocket Translator
+
+### About
+
+NodeJS app using Microsoft's Azure Cognitive Services to allow speech-to-text cloud-based machine translation. 
+
 # Install
 
 `npm install`
